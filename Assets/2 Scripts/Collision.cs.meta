@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Collision.cs.meta
+guid: ebe7bcd371cb8f54f9b78ea9921b9026
+========
+guid: b3f0a6c6e922f0545acc05f909b488d5
+>>>>>>>> bf081817b54859e9ed621da8d129abd72352a024:Assets/gameManager.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
